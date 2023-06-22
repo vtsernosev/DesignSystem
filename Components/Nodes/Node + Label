@@ -1,1 +1,55 @@
-1
+<div className="NodeLabel" style={{width: 79, height: 66, paddingLeft: 8.50, paddingRight: 8.50, flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 4, display: 'inline-flex'}}>
+  <div className="Group19241" style={{width: 40, height: 40, position: 'relative'}}>
+    <div className="Ellipse1033" style={{width: 40, height: 40, left: 0, top: 0, position: 'absolute', background: 'white', borderRadius: 9999, border: '0.50px  solid'}} />
+    <div className="RoundCube" style={{width: 24, height: 24, left: 8, top: 8, position: 'absolute'}}>
+      <div className="Union" style={{width: 17.74, height: 20.24, left: 3.13, top: 1.78, position: 'absolute', background: '#474C59', border: '0.30px #474C59 solid'}}></div>
+      <div className="Group" style={{width: 17.75, height: 14.84, left: 3.12, top: 7.18, position: 'absolute'}}>
+        <div className="Union" style={{width: 17.75, height: 9.72, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+        <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: 0, position: 'absolute', background: 'linear-gradient(148deg, #9DA4B9 0%, #808BAB 100%)', borderRadius: 6}}></div>
+        <img className="Union" style={{width: 3.61, height: 5.15, left: 1.27, top: 7.45, position: 'absolute'}} src="https://via.placeholder.com/4x5" />
+      </div>
+      <div className="Group" style={{width: 17.75, height: 14.94, left: 3.12, top: 1.78, position: 'absolute'}}>
+        <div className="Union" style={{width: 17.75, height: 9.82, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+        <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: -0, position: 'absolute', background: 'linear-gradient(172deg, #EDF1FD 0%, #E1E5F1 100%)', borderRadius: 6}}></div>
+        <img className="Union" style={{width: 15.72, height: 8.80, left: 1.14, top: 0.60, position: 'absolute'}} src="https://via.placeholder.com/16x9" />
+      </div>
+    </div>
+    <div className="Group19241" style={{width: 40, height: 40, left: 0, top: 0, position: 'absolute'}}>
+      <div className="Ellipse1033" style={{width: 40, height: 40, left: 0, top: 0, position: 'absolute', background: 'white', borderRadius: 9999, border: '0.50px  solid'}} />
+      <div className="Group19241" style={{width: 40, height: 40, left: 0, top: 0, position: 'absolute'}}>
+        <div className="RoundCube" style={{width: 24, height: 24, left: 8, top: 8, position: 'absolute'}}>
+          <div className="Union" style={{width: 17.74, height: 20.24, left: 3.13, top: 1.78, position: 'absolute', background: '#474C59', border: '0.30px #474C59 solid'}}></div>
+          <div className="Group" style={{width: 17.75, height: 14.84, left: 3.12, top: 7.18, position: 'absolute'}}>
+            <div className="Union" style={{width: 17.75, height: 9.72, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+            <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: 0, position: 'absolute', background: 'linear-gradient(148deg, #9DA4B9 0%, #808BAB 100%)', borderRadius: 6}}></div>
+            <img className="Union" style={{width: 3.61, height: 5.15, left: 1.27, top: 7.45, position: 'absolute'}} src="https://via.placeholder.com/4x5" />
+          </div>
+          <div className="Group" style={{width: 17.75, height: 14.94, left: 3.12, top: 1.78, position: 'absolute'}}>
+            <div className="Union" style={{width: 17.75, height: 9.82, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+            <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: -0, position: 'absolute', background: 'linear-gradient(172deg, #EDF1FD 0%, #E1E5F1 100%)', borderRadius: 6}}></div>
+            <img className="Union" style={{width: 15.72, height: 8.80, left: 1.14, top: 0.60, position: 'absolute'}} src="https://via.placeholder.com/16x9" />
+          </div>
+        </div>
+        <div className="Frame1739325683" style={{width: 40, height: 40, left: 0, top: 0, position: 'absolute'}}>
+          <div className="Ellipse1118" style={{width: 40, height: 40, left: -6.13, top: 9.18, position: 'absolute', transform: 'rotate(-22.50deg)', transformOrigin: '0 0', borderRadius: 9999, border: '1.50px #EB0000 dotted'}} />
+        </div>
+      </div>
+      <div className="RoundCube" style={{width: 24, height: 24, left: 8.13, top: 8.13, position: 'absolute'}}>
+        <div className="Union" style={{width: 17.74, height: 20.24, left: 3.13, top: 1.78, position: 'absolute', background: '#474C59', border: '0.30px #474C59 solid'}}></div>
+        <div className="Group" style={{width: 17.75, height: 14.84, left: 3.12, top: 7.18, position: 'absolute'}}>
+          <div className="Union" style={{width: 17.75, height: 9.72, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+          <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: 0, position: 'absolute', background: 'linear-gradient(148deg, #9DA4B9 0%, #808BAB 100%)', borderRadius: 6}}></div>
+          <img className="Union" style={{width: 3.61, height: 5.15, left: 1.27, top: 7.45, position: 'absolute'}} src="https://via.placeholder.com/4x5" />
+        </div>
+        <div className="Group" style={{width: 17.75, height: 14.94, left: 3.12, top: 1.78, position: 'absolute'}}>
+          <div className="Union" style={{width: 17.75, height: 9.82, left: 0, top: 5.12, position: 'absolute', background: 'linear-gradient(270deg, #D1D8EF 0%, #D8E1FB 40%, #B5BED9 61%, #B4BDD8 100%)'}}></div>
+          <div className="Rectangle" style={{width: 17.74, height: 10.24, left: 0, top: -0, position: 'absolute', background: 'linear-gradient(172deg, #EDF1FD 0%, #E1E5F1 100%)', borderRadius: 6}}></div>
+          <img className="Union" style={{width: 15.72, height: 8.80, left: 1.14, top: 0.60, position: 'absolute'}} src="https://via.placeholder.com/16x9" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div className="Label" style={{height: 22, padding: 8, borderRadius: 6, borderLeft: '0.50px  solid', borderTop: '0.50px  solid', borderRight: '0.50px  solid', borderBottom: '0.50px  solid', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+    <div className="Label" style={{textAlign: 'center', color: '#637085', fontSize: 10, fontFamily: 'Helvetica Neue', fontWeight: '400', lineHeight: 10, wordWrap: 'break-word'}}>XA1480-1<br/>20.0.20.46</div>
+  </div>
+</div>
